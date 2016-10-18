@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Mas Views</string>
+
+    <string name="hint_entrada">Introduce un numero</string>
+    <string name="hint_salida">Resultado</string>
+    <string name="text_button0">0</string>
+    <string name="tag_button0">0</string>
 </resources>
